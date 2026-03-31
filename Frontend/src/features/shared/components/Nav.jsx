@@ -24,7 +24,7 @@ const Nav = () => {
       {/* LEFT */}
       <div className="nav-left">
         <h2 className="logo" onClick={() => navigate("/feed")}>
-          InstaClone
+          PixLoop
         </h2>
       </div>
 

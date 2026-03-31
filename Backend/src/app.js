@@ -4,7 +4,7 @@ const cors = require('cors')
 
 const app = express()
 
-// 🔥 CORS MUST COME FIRST
+// CORS MUST COME FIRST
 console.log("CORS CONFIG LOADED")
 
 app.use(cors({

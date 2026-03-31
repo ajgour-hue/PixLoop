@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://insta-clone-backend-lucj.onrender.com/api/posts",
+  baseURL: "http://localhost:3000/api/posts",
   withCredentials: true,
 });
 
