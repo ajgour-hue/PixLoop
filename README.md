@@ -1,4 +1,4 @@
-# 📸 Insta-Clone (Full Stack Social Media App)
+# 📸 Pixloop (Full Stack Social Media App)
 
 A fully functional Instagram-inspired social media application built
 using **MERN Stack (MongoDB, Express, React, Node.js)** with
